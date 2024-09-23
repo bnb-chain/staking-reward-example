@@ -1,0 +1,12 @@
+{
+  "validator_operator_addr": "0x773760b0708a5Cc369c346993a0c225D8e4043B1",
+  "bsc_rpc_addrs": [
+    "https://bsc-dataseed4.defibit.io"
+  ],
+  "bsc_blocks_for_finality": 2,
+  "bsc_start_height": 37961095,
+  "db_config": {
+    "db_dialect": "sqlite3",
+    "db_path": "staking-rewards.db"
+  }
+}
